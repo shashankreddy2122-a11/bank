@@ -2,9 +2,6 @@ import React from 'react';
 
 const sectionTitle = 'mb-4 text-lg font-semibold text-[#343C6A] sm:text-[22px]';
 
-/* =====================================================================
-   Advanced icons (layered, two-tone, they use the text colour of their parent)
-   ===================================================================== */
 interface IconProps {
   size?: number;
   className?: string;

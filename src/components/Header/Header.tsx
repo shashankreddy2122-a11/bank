@@ -6,7 +6,7 @@ import {
   PiUserFill,
   PiXBold,
 } from 'react-icons/pi';
-import { useProfilePhoto } from '../profilePhoto';
+import { useProfilePhoto } from '../../profilePhoto';
 
 interface HeaderProps {
   onMenuClick: () => void;

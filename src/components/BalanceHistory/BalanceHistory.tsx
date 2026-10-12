@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface Point {
-  t: number; // position along the x-axis, 0 (start of Jul) to 1 (end)
+  t: number;
   value: number;
 }
 
